@@ -1,4 +1,4 @@
-import Point.py #importing the point object for board
+import Point #importing the point object for board
 
 
 # Game class
