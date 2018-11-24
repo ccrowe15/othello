@@ -5,14 +5,11 @@ import Point #importing the point object for board
 # initiates game logic
 
 class Game:
-<<<<<<< HEAD
     
     self.white_score
     self.black_score 
 
-
-=======
->>>>>>> 3db34acae8616b57b70590c6d7c9b8ce19fe5011
+    
     board = [ 
     ['_', '_', '_', '_', '_', '_', '_', '_'],
     ['_', '_', '_', '_', '_', '_', '_', '_'],
@@ -23,7 +20,6 @@ class Game:
     ['_', '_', '_', '_', '_', '_', '_', '_'],
     ['_', '_', '_', '_', '_', '_', '_', '_'], ]
     
-<<<<<<< HEAD
     self.game_result(white_placeable_locations, black_placeable_locations):
         is_full = true
         for x in range(7):
@@ -56,10 +52,4 @@ class Game:
                 return -1;
     
         return 3
-
-        
-=======
->>>>>>> 3db34acae8616b57b70590c6d7c9b8ce19fe5011
-
-
    
